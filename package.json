@@ -4,9 +4,13 @@
   "private": true,
   "homepage": "https://ulfhednarza.github.io/scratchplate",
   "dependencies": {
+    "@octokit/rest": "^21.0.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "github": "^14.0.0",
+    "github-pages": "^3.0.2",
+    "pages": "^0.0.16",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
